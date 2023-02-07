@@ -6,9 +6,9 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 
-付费一元阅读《破译鲍勃·迪伦最费解访谈》<!--阅读全文-->
+付费一元阅读《破译鲍勃·迪伦最费解访谈》<!--more-->
 
-![pay](img/1rmb.png)
+![pay](/img/1rmb.png)
 
 腾讯云盘：https://share.weiyun.com/LWwA5Ijh
 
