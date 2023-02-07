@@ -2,16 +2,13 @@
 layout: post
 title: 《现代歌曲的哲学》第11首
 categories:
-  - 《现代歌曲的哲学》
-tags:
   - 专题
-  - Dylan
 excerpt_separator:  <!--more-->
 ---
-
+<!--more-->
 《现代歌曲的哲学》第11首：Ricky Nelson - Poor Little Fool。
 
-书中有趣的内容：<!--more-->
+书中有趣的内容：
 > ----------------------------------------------
 > 傻瓜带给我们很多歌曲。
 >
