@@ -3,10 +3,9 @@ layout: post
 title: 《现代歌曲的哲学》第21首
 categories:
   - 专题
-excerpt_separator:  <!--more-->
 ---
-
-《现代歌曲的哲学》第21首：Harold Melvin & The Blue Notes - If You Don't Know Me By Now 。<!--more-->
+<!--more-->
+《现代歌曲的哲学》第21首：Harold Melvin & The Blue Notes - If You Don't Know Me By Now 。
 
 鲍比声称他狠听Motown的歌一点不假，我听起来再娘娘腔不过的歌他也上了心，并后生出感受。我最初听到应该是上世纪80年代，应该是所谓“蓝眼灵歌”走俏时期，应该是Simply Red唱的。我一直认为，Motown就是“黑色泡泡糖”，我不相信觉得Joan Baez难听的鲍比一开始能接受。这是需要强迫立场转变去接受的，也许就是所谓“以意逆志”——反正就是以理念强扭感情，我也是……
 
