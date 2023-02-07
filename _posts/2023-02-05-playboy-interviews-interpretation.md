@@ -2,10 +2,10 @@
 layout: post
 title: 破译鲍勃·迪伦最费解访谈
 categories:
-  - 付费阅读
+  - 付费阅读  [全文](<!--more-->)
 excerpt_separator:  <!--more-->
 ---
-<!--more-->
+[全文](<!--more-->)
 付费一元阅读《破译鲍勃·迪伦最费解访谈》
 
 ![pay](img/1rmb.png)
