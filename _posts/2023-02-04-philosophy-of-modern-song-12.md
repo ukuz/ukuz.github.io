@@ -2,7 +2,7 @@
 layout: post
 title: 《现代歌曲的哲学》第12首
 categories:
-  - 专题
+  - 专题研究
 excerpt_separator:  <!--more-->
 ---
 <!--more-->
