@@ -1,4 +1,4 @@
 ---
 layout: category
-title: 专题
+title: 专题研究
 ---
