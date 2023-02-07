@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            碎叶集
 tagline:          'GitHub Blog'
-description:      'of songs and  culture'
+description:      'of songs & culture'
 url:              https://ukuz.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
