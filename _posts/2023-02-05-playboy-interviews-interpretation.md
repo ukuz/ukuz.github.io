@@ -5,8 +5,8 @@ categories:
   - 付费阅读
 excerpt_separator:  <!--more-->
 ---
-
-付费一元阅读《破译鲍勃·迪伦最费解访谈》<!--more-->
+<!--more-->
+付费一元阅读《破译鲍勃·迪伦最费解访谈》
 
 ![pay](img/1rmb.png)
 
