@@ -2,7 +2,7 @@
 layout: post
 title: 《现代歌曲的哲学》第16首
 categories:
-  - 专题
+  - 专题研究
 ---
 <!--more-->
 《现代歌曲的哲学》第16首：Eddy Arnold - You Don't Know Me (1960) 。
